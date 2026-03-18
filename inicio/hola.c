@@ -8,7 +8,8 @@ int main(){
    //y no tener conflictos a la hora de subir los cambios al repositorio principal
    //o usar las ramas
 
-
+    printf("Hola, soy Sebastian.")
+    printf("Estoy probando git.")
 
     return (0);
 
