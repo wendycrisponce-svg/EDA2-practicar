@@ -11,6 +11,9 @@ int main(){
     printf("Hola, soy Sebastian.")
     printf("Estoy probando git.")
 
+    printf("Buenas soy Leandro\n");
+    prinft("probandooo..");
+
     return (0);
 
 }
